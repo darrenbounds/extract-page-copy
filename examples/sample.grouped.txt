@@ -1,0 +1,19 @@
+[1 headings | 1 paragraphs/blocks | ~32 words]
+
+## Meta Description
+A practical page for testing copy extraction.
+
+## Headings
+# Build a better checkout
+
+## Body Copy
+Give customers a faster path from product discovery to completed purchase.
+
+## CTAs / Buttons / Links
+- Home
+- Pricing
+- Start free trial
+
+## Image Alt Text
+- Merchant dashboard showing checkout performance
+

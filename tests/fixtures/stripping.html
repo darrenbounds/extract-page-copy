@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+      body::before { content: "Do not extract CSS"; }
+    </style>
+    <script>
+      window.secretCopy = "Do not extract JavaScript";
+    </script>
+  </head>
+  <body>
+    <!-- Do not extract comments -->
+    <main>
+      <h1>Only visible copy remains</h1>
+      <p>This paragraph should be the only body copy in the stripped output.</p>
+      <p style="display:none">Do not extract hidden copy.</p>
+    </main>
+  </body>
+</html>
