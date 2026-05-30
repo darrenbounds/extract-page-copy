@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "extract-page-copy": {
+      "source": "darrenbounds/extract-page-copy",
+      "sourceType": "github",
+      "skillPath": "skills/extract-page-copy/SKILL.md",
+      "computedHash": "ef9cabde4e2c8022e6d4b00139925a9fd677d1de173bae423601afd716cd0d16"
+    }
+  }
+}
